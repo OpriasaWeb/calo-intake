@@ -1,0 +1,15 @@
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.exe
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.deps.json
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.runtimeconfig.json
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.dll
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.pdb
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfoInputs.cache
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfo.cs
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.sourcelink.json
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.dll
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\refint\TestProject.dll
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.pdb
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\net10.0\ref\TestProject.dll

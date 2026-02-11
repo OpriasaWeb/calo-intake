@@ -1,0 +1,6 @@
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.AssemblyReference.cache
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfoInputs.cache
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfo.cs
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING_HABIT\C# Certification\dice-game\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.sourcelink.json
